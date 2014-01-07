@@ -1,0 +1,12 @@
+{
+  "name": "snap-files",
+  "version": "0.0.1",
+  "description": "SNAP Plugin for file manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "private": true
+}
